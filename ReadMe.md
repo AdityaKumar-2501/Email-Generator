@@ -65,8 +65,8 @@ The Email Reply Generator Web App simplifies the process of crafting email repli
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository_url>
-    cd <backend_directory>
+    git clone https://github.com/AdityaKumar-2501/Email-Generator.git
+    cd email-writer
     ```
 
 2.  **Install dependencies:**
@@ -104,7 +104,7 @@ The Email Reply Generator Web App simplifies the process of crafting email repli
 1.  **Navigate to the frontend directory:**
 
     ```bash
-    cd ../<frontend_directory>
+    cd ../Email-Writer-frontend
     ```
 
 2.  **Install dependencies:**
@@ -140,15 +140,6 @@ The Email Reply Generator Web App simplifies the process of crafting email repli
         server.port=8080
         ```
 
-2.  **Frontend (React Vite):**
-
-    -   Create a `.env.local` file in the root of the frontend directory.
-    -   Add the backend API endpoint:
-
-        ```
-        VITE_API_BASE_URL=http://localhost:8080/api
-        ```
-        (Adjust the URL if your backend runs on a different port or host.)
 
 ## Usage
 
