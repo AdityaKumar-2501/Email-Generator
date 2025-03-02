@@ -188,5 +188,4 @@ This project is licensed under the [MIT License](LICENSE) (or specify your licen
 
 For any questions or issues, please contact:
 
--   [Your Name/Organization]
--   [Your Email/Website]
+-   [Aditya's LinkedIn](https://www.linkedin.com/in/adityakumar-akk/)
